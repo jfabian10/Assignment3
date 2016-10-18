@@ -8,11 +8,18 @@
 
 import UIKit
 
-class CompaniesTableViewController: UITableViewController {
+class CompaniesTableViewController: UITableViewController, UISearchResultsUpdating {
 
+    
+    var searchResults = [String]()
+    
+    var searchResultsController = UISearchController()
+    
+    
+    
+    //////
+    
     let tableViewRowHeight: CGFloat = 60.0
-    
-    
     
     // Alternate table view rows have a background color of MintCream or OldLace for clarity of display
     
@@ -54,6 +61,12 @@ class CompaniesTableViewController: UITableViewController {
         
         
         
+        ///////
+        
+          createSearchResultsController()
+        
+        
+        
         
     }
     
@@ -74,8 +87,52 @@ class CompaniesTableViewController: UITableViewController {
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         // #warning Incomplete implementation, return the number of rows
-        return companyNames.count
+        
+        return searchResultsController.isActive ? searchResults.count : companyNames.count
+        
+        
+        
+//        return companyNames.count
     }
+    
+    
+    
+    func updateSearchResults(for searchController: UISearchController)
+        
+    {
+        
+        // Empty the instance variable searchResults array without keeping its capacity
+        
+        searchResults.removeAll(keepingCapacity: false)
+        
+        
+        
+        // Set searchPredicate to search for any character(s) the user enters into the search bar.
+        
+        // [c] indicates that the search is case insensitive.
+        
+        let searchPredicate = NSPredicate(format: "SELF CONTAINS[c] %@", searchController.searchBar.text!)
+        
+        
+        
+        // Obtain the country names that contain the character(s) the user types into the Search Bar.
+        
+        let listOfCountryNamesFound = (companyNames as NSArray).filtered(using: searchPredicate)
+        
+        
+        
+        // Obtain the search results as an array of type String
+        
+        searchResults = listOfCountryNamesFound as! [String]
+        
+        
+        
+        // Reload the table view to display the search results
+        
+        self.tableView.reloadData()
+        
+    }
+    
     
     ///loads table view
     
@@ -190,6 +247,110 @@ class CompaniesTableViewController: UITableViewController {
         }
         
     }
+    
+    
+    /*
+     
+     ---------------------------------------------
+     
+     MARK: - Creation of Search Results Controller
+     
+     ---------------------------------------------
+     
+     */
+    
+    func createSearchResultsController() {
+        
+        /*
+         
+         Instantiate a UISearchController object and store its object reference into local variable: controller.
+         
+         Setting the parameter searchResultsController to nil implies that the search results will be displayed
+         
+         in the same view used for searching (under the same UITableViewController object).
+         
+         */
+        
+        let controller = UISearchController(searchResultsController: nil)
+        
+        
+        
+        /*
+         
+         We use the same table view controller (self) to also display the search results. Therefore,
+         
+         set self to be the object responsible for listing and updating the search results.
+         
+         Note that we made self to conform to UISearchResultsUpdating protocol.
+         
+         */
+        
+        controller.searchResultsUpdater = self
+        
+        
+        
+        /*
+         
+         The property dimsBackgroundDuringPresentation determines if the underlying content is dimmed during
+         
+         presentation. We set this property to false since we are presenting the search results in the same
+         
+         view that is used for searching. The "false" option displays the search results without dimming.
+         
+         */
+        
+        controller.dimsBackgroundDuringPresentation = false
+        
+        
+        
+        // Resize the search bar object based on screen size and device orientation.
+        
+        controller.searchBar.sizeToFit()
+        
+        
+        
+        /***************************************************************************
+         
+         No need to create the search bar in the Interface Builder (storyboard file).
+         
+         The statement below creates it at runtime.
+         
+         ***************************************************************************/
+        
+        
+        
+        // Set the tableHeaderView's accessory view displayed above the table view to display the search bar.
+        
+        self.tableView.tableHeaderView = controller.searchBar
+        
+        
+        
+        /*
+         
+         Set self (Table View Controller) define the presentation context so that the Search Bar subview
+         
+         does not show up on top of the view (scene) displayed by a downstream view controller.
+         
+         */
+        
+        self.definesPresentationContext = true
+        
+        
+        
+        /*
+         
+         Set the object reference (controller) of the newly created and dressed up UISearchController
+         
+         object to be the value of the instance variable searchResultsController.
+         
+         */
+        
+        searchResultsController = controller
+        
+    }
+    
+    
+    
     
     
    

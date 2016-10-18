@@ -29,6 +29,7 @@ class CompaniesSrollViewController: UIViewController {
     
     @IBOutlet var companyWikiButton: UIButton!
     
+    @IBOutlet var companyNameNavItem: UINavigationItem!
     
     
     
@@ -79,7 +80,7 @@ class CompaniesSrollViewController: UIViewController {
         
         //self.title = dataPassed[0]
         
-        
+        companyNameNavItem.title = dataPassed[11]
         companyNameLabel.text = dataPassed[11]
 
         
