@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Accenture</key>
+	<array>
+		<string>AccentureLogo.png</string>
+		<string>11951 Freedom Drive</string>
+		<string>Reston</string>
+		<string>VA</string>
+		<string>20190</string>
+		<string>(312) 842-5012</string>
+		<string>info@accenture.com</string>
+		<string>http://www.accenture.com</string>
+		<string>https://www.accenture.com/us-en/careers/jobsearch</string>
+		<string>https://www.accenture.com/us-en/company</string>
+		<string>https://en.wikipedia.org/wiki/Accenture</string>
+	</array>
+	<key>Adobe Systems, Inc.</key>
+	<array>
+		<string>AdobeLogo.png</string>
+		<string>345 Park Avenue</string>
+		<string>San Jose</string>
+		<string>CA</string>
+		<string>95110-2704</string>
+		<string>(408) 536-6000</string>
+		<string>info@adobe.com</string>
+		<string>http://www.adobe.com</string>
+		<string>http://www.adobe.com/careers.html</string>
+		<string>http://www.adobe.com/about-adobe.html</string>
+		<string>https://en.wikipedia.org/wiki/Adobe_Systems</string>
+	</array>
+	<key>Amazon.com</key>
+	<array>
+		<string>AmazonLogo.png</string>
+		<string>1200 12th Ave., Ste. 1200</string>
+		<string>Seattle</string>
+		<string>WA</string>
+		<string>98144</string>
+		<string>(206) 622-2335</string>
+		<string>info@amazon.com</string>
+		<string>http://www.amazon.com</string>
+		<string>https://www.amazon.jobs/</string>
+		<string>https://www.amazon.com/p/feature/rzekmvyjojcp6uc?ref_=footer_aa</string>
+		<string>https://en.wikipedia.org/wiki/Amazon.com</string>
+	</array>
+	<key>Apple, Inc.</key>
+	<array>
+		<string>AppleLogo.png</string>
+		<string>1 Infinite Loop</string>
+		<string>Cupertino</string>
+		<string>CA</string>
+		<string>95014</string>
+		<string>(408) 996-1010</string>
+		<string>info@apple.com</string>
+		<string>http://www.apple.com</string>
+		<string>http://www.apple.com/jobs/us/</string>
+		<string>http://www.apple.com/about/</string>
+		<string>https://en.wikipedia.org/wiki/Apple_Inc.</string>
+	</array>
+	<key>Boeing</key>
+	<array>
+		<string>BoeingLogo.png</string>
+		<string>100 North Riverside </string>
+		<string>Chicago</string>
+		<string>IL</string>
+		<string>60606</string>
+		<string>(312) 544-2000 </string>
+		<string>info@boeing.com</string>
+		<string>http://www.boeing.com</string>
+		<string>http://www.boeing.com/careers/</string>
+		<string>http://www.boeing.com/company/</string>
+		<string>https://en.wikipedia.org/wiki/Boeing</string>
+	</array>
+	<key>Booz Allen Hamilton, Inc.</key>
+	<array>
+		<string>BoozAllenLogo.png</string>
+		<string>8283 Greensboro Drive</string>
+		<string>McLean</string>
+		<string>VA</string>
+		<string>22102</string>
+		<string>(703) 902-5000</string>
+		<string>info@boozallen.com</string>
+		<string>http://www.boozallen.com/</string>
+		<string>http://www.boozallen.com/careers/find-your-job</string>
+		<string>http://www.boozallen.com/about</string>
+		<string>https://en.wikipedia.org/wiki/Booz_Allen_Hamilton</string>
+	</array>
+	<key>CA Technologies</key>
+	<array>
+		<string>CATechnologiesLogo.png</string>
+		<string>One CA Plaza</string>
+		<string>Islandia</string>
+		<string>NY</string>
+		<string>11749</string>
+		<string>(866) 851-5273</string>
+		<string>info@ca.com</string>
+		<string>http://www.ca.com</string>
+		<string>http://www.ca.com/us/why-ca/about-us/careers.html</string>
+		<string>http://www.ca.com/us/why-ca/about-us.html</string>
+		<string>https://en.wikipedia.org/wiki/CA_Technologies</string>
+	</array>
+	<key>Cognizant Technology Solutions</key>
+	<array>
+		<string>CognizantLogo.png</string>
+		<string>500 Frank W. Burr Blvd</string>
+		<string>Teaneck</string>
+		<string>NJ</string>
+		<string>07666</string>
+		<string>(201) 801-0233</string>
+		<string>info@cognizant.com</string>
+		<string>http://www.cognizant.com</string>
+		<string>https://www.cognizant.com/careers</string>
+		<string>https://www.cognizant.com/about-cognizant</string>
+		<string>https://en.wikipedia.org/wiki/Cognizant</string>
+	</array>
+	<key>Cisco Systems, Inc.</key>
+	<array>
+		<string>CiscoLogo.png</string>
+		<string>170 West Tasman Dr.</string>
+		<string>San Jose</string>
+		<string>CA</string>
+		<string>95134</string>
+		<string>(408) 526-4000</string>
+		<string>info@cisco.com</string>
+		<string>http://www.cisco.com</string>
+		<string>https://jobs.cisco.com/</string>
+		<string>http://weare.cisco.com/c/r/weare/about-us.html</string>
+		<string>https://en.wikipedia.org/wiki/Cisco_Systems</string>
+	</array>
+	<key>Computer Sciences Corporation</key>
+	<array>
+		<string>CSCLogo.png</string>
+		<string>3170 Fairview Park Drive</string>
+		<string>Falls Church</string>
+		<string>VA</string>
+		<string>22042</string>
+		<string>(703) 876-1000</string>
+		<string>info@csc.com</string>
+		<string>http://www.csc.com</string>
+		<string>http://www.csc.com/careersus/flxwd/16005-careers</string>
+		<string>http://www.csc.com/about_us</string>
+		<string>https://en.wikipedia.org/wiki/Computer_Sciences_Corporation</string>
+	</array>
+	<key>Dell, Inc.</key>
+	<array>
+		<string>DellLogo.png</string>
+		<string>One Dell Way</string>
+		<string>Round Rock</string>
+		<string>TX</string>
+		<string>78682</string>
+		<string>(512) 338-4400</string>
+		<string>info@dell.com</string>
+		<string>http://www.dell.com</string>
+		<string>https://www.dell.com/learn/us/en/uscorp1/careers</string>
+		<string>http://www.dell.com/learn/us/en/uscorp1/corp-comm</string>
+		<string>https://en.wikipedia.org/wiki/Dell</string>
+	</array>
+	<key>General Dynamics</key>
+	<array>
+		<string>GeneralDynamicsLogo.png</string>
+		<string>1421 Jefferson Davis Hwy, Suite 600</string>
+		<string>Arlington</string>
+		<string>VA</string>
+		<string>22202</string>
+		<string>(703) 876-3093</string>
+		<string>info@generaldynamics.com</string>
+		<string>http://www.generaldynamics.com</string>
+		<string>http://www.generaldynamics.com/careers/job-search</string>
+		<string>http://www.generaldynamics.com/about-gd</string>
+		<string>https://en.wikipedia.org/wiki/General_Dynamics</string>
+	</array>
+	<key>Google, Inc.</key>
+	<array>
+		<string>GoogleLogo.png</string>
+		<string>1600 Amphitheatre Parkway</string>
+		<string>Mountain View</string>
+		<string>CA</string>
+		<string>94043</string>
+		<string>(650) 253-0000</string>
+		<string>info@google.com</string>
+		<string>http://www.google.com</string>
+		<string>https://www.google.com/about/careers/</string>
+		<string>https://www.google.com/about/</string>
+		<string>https://en.wikipedia.org/wiki/Google</string>
+	</array>
+	<key>Hewlett-Packard Company</key>
+	<array>
+		<string>HPLogo.png</string>
+		<string>3000 Hanover Street</string>
+		<string>Palo Alto</string>
+		<string>CA</string>
+		<string>94304-1185</string>
+		<string>(650) 857-1501</string>
+		<string>info@hp.com</string>
+		<string>http://www.hp.com</string>
+		<string>http://www8.hp.com/us/en/jobs/index.html</string>
+		<string>http://www8.hp.com/us/en/hp-information/</string>
+		<string>https://en.wikipedia.org/wiki/Hewlett-Packard</string>
+	</array>
+	<key>IBM Corporation</key>
+	<array>
+		<string>IBMLogo.png</string>
+		<string>1 New Orchard Road</string>
+		<string>Armonk</string>
+		<string>NY</string>
+		<string>10504-1722</string>
+		<string>(914) 499-1900</string>
+		<string>info@ibm.com</string>
+		<string>http://www.ibm.com</string>
+		<string>http://www-03.ibm.com/employment/</string>
+		<string>http://www.ibm.com/ibm/us/en/?lnk=fab</string>
+		<string>https://en.wikipedia.org/wiki/IBM</string>
+	</array>
+	<key>Intel Corporation</key>
+	<array>
+		<string>IntelLogo.png</string>
+		<string>2200 Mission College Blvd.</string>
+		<string>Santa Clara</string>
+		<string>CA</string>
+		<string>95054-1549</string>
+		<string>(408) 765-8080</string>
+		<string>info@intel.com</string>
+		<string>http://www.intel.com</string>
+		<string>http://jobs.intel.com/</string>
+		<string>http://www.intel.com/content/www/us/en/company-overview/company-overview.html</string>
+		<string>https://en.wikipedia.org/wiki/Intel</string>
+	</array>
+	<key>L-3 Communications Corporation</key>
+	<array>
+		<string>L3Logo.png</string>
+		<string>2361 Jefferson Davis Highway</string>
+		<string>Arlington</string>
+		<string>VA</string>
+		<string>22202-3876</string>
+		<string>(212) 697-1111</string>
+		<string>info@l-3com.com</string>
+		<string>http://www.l-3com.com</string>
+		<string>http://www.l-3com.com/careers</string>
+		<string>http://www.l-3com.com/about-l-3</string>
+		<string>https://en.wikipedia.org/wiki/L-3_Communications</string>
+	</array>
+	<key>Lockheed Martin Corporation</key>
+	<array>
+		<string>LockheedMartinLogo.png</string>
+		<string>6801 Rockledge Drive</string>
+		<string>Bethesda</string>
+		<string>MD</string>
+		<string>20817</string>
+		<string>(301) 897-6000</string>
+		<string>info@lockheedmartin.com</string>
+		<string>http://www.lockheedmartin.com</string>
+		<string>http://search.lockheedmartinjobs.com/</string>
+		<string>http://www.lockheedmartin.com/us/who-we-are.html</string>
+		<string>https://en.wikipedia.org/wiki/Lockheed_Martin</string>
+	</array>
+	<key>Microsoft</key>
+	<array>
+		<string>MicrosoftLogo.png</string>
+		<string>One Microsoft Way</string>
+		<string>Redmond</string>
+		<string>WA</string>
+		<string>98052-6399</string>
+		<string>(877) 696-7786</string>
+		<string>info@microsoft.com</string>
+		<string>http://www.microsoft.com</string>
+		<string>https://careers.microsoft.com/search.aspx</string>
+		<string>https://www.microsoft.com/en-us/about/</string>
+		<string>https://en.wikipedia.org/wiki/Microsoft</string>
+	</array>
+	<key>MITRE Corporation</key>
+	<array>
+		<string>MitreLogo.png</string>
+		<string>7525 Colshire Drive</string>
+		<string>McLean</string>
+		<string>VA</string>
+		<string>22102-7539</string>
+		<string>(703) 983-6004</string>
+		<string>info@mitre.org</string>
+		<string>http://www.mitre.org</string>
+		<string>https://www.mitre.org/careers/job-openings</string>
+		<string>https://www.mitre.org/about/corporate-overview</string>
+		<string>https://en.wikipedia.org/wiki/Mitre_Corporation</string>
+	</array>
+	<key>Northrop Grumman Corporation</key>
+	<array>
+		<string>NorthropGrummanLogo.png</string>
+		<string>1840 Century Park East</string>
+		<string>Los Angeles</string>
+		<string>CA</string>
+		<string>90067-2199</string>
+		<string>(310) 553-6262</string>
+		<string>info@northropgrumman.com</string>
+		<string>http://www.northropgrumman.com</string>
+		<string>http://www.northropgrumman.com/careers/jobsearch/pages/default.aspx</string>
+		<string>http://www.northropgrumman.com/aboutus/Pages/default.aspx</string>
+		<string>https://en.wikipedia.org/wiki/Northrop_Grumman</string>
+	</array>
+	<key>Oracle Corporation</key>
+	<array>
+		<string>OracleLogo.png</string>
+		<string>500 Oracle Parkway</string>
+		<string>Redwood Shores</string>
+		<string>CA</string>
+		<string>94065</string>
+		<string>(650) 506-7000</string>
+		<string>info@oracle.com</string>
+		<string>http://www.oracle.com</string>
+		<string>https://www.oracle.com/corporate/careers/index.html</string>
+		<string>https://www.oracle.com/corporate/index.html</string>
+		<string>https://en.wikipedia.org/wiki/Oracle_Corporation</string>
+	</array>
+	<key>PricewaterhouseCoopers LLP</key>
+	<array>
+		<string>PWCLogo.png</string>
+		<string>300 Madison Avenue, 24th Floor</string>
+		<string>New York</string>
+		<string>NY</string>
+		<string>10017</string>
+		<string>(646) 471-4000</string>
+		<string>info@pwc.com</string>
+		<string>http://www.pwc.com</string>
+		<string>http://jobs.pwc.com/</string>
+		<string>http://www.pwc.com/us/en/about-us.html</string>
+		<string>https://en.wikipedia.org/wiki/PricewaterhouseCoopers</string>
+	</array>
+	<key>SAIC, Inc.</key>
+	<array>
+		<string>SaicLogo.png</string>
+		<string>1710 SAIC Drive</string>
+		<string>McLean</string>
+		<string>VA</string>
+		<string>22102</string>
+		<string>(703) 676-4300</string>
+		<string>info@saic.com</string>
+		<string> http://www.saic.com</string>
+		<string>https://jobs.saic.com/</string>
+		<string>http://www.saic.com/about/about-saic/</string>
+		<string>https://en.wikipedia.org/wiki/Science_Applications_International_Corporation</string>
+	</array>
+	<key>SAP America, Inc.</key>
+	<array>
+		<string>SapLogo.png</string>
+		<string>3999 West Chester Pike</string>
+		<string>Newtown Square</string>
+		<string>PA</string>
+		<string>19073</string>
+		<string>(610) 661-1000</string>
+		<string>info@sap.com</string>
+		<string>http://www.sap.com/</string>
+		<string>http://go.sap.com/about/careers.html</string>
+		<string>http://go.sap.com/about.html</string>
+		<string>https://en.wikipedia.org/wiki/SAP_SE</string>
+	</array>
+	<key>SAS Institute, Inc.</key>
+	<array>
+		<string>SASLogo.png</string>
+		<string>100 SAS Campus Drive</string>
+		<string>Cary</string>
+		<string>NC</string>
+		<string>27513-2414</string>
+		<string>(919) 677-8000</string>
+		<string>info@sas.com</string>
+		<string>http://www.sas.com</string>
+		<string>http://www.sas.com/en_us/careers.html</string>
+		<string>http://www.sas.com/en_us/company-information.html</string>
+		<string>https://en.wikipedia.org/wiki/SAS_Institute</string>
+	</array>
+	<key>Symantec Corporation</key>
+	<array>
+		<string>SymantecLogo.png</string>
+		<string>350 Ellis Street</string>
+		<string>Mountain View</string>
+		<string>CA</string>
+		<string>94043</string>
+		<string>(650) 527-8000</string>
+		<string>info@symantec.com</string>
+		<string>http://www.symantec.com</string>
+		<string>https://www.symantec.com/about/careers/opportunities</string>
+		<string>https://www.symantec.com/about</string>
+		<string>https://en.wikipedia.org/wiki/Symantec</string>
+	</array>
+	<key>Texas Instruments</key>
+	<array>
+		<string>TexasInstrumentsLogo.png</string>
+		<string>12500 TI Boulevard</string>
+		<string>Dallas</string>
+		<string>TX</string>
+		<string>75243</string>
+		<string>(972) 995-2011</string>
+		<string>info@ti.com</string>
+		<string>http://www.ti.com</string>
+		<string>http://careers.ti.com/</string>
+		<string>http://www.ti.com/corp/docs/company/home.html</string>
+		<string>https://en.wikipedia.org/wiki/Texas_Instruments</string>
+	</array>
+	<key>VMware, Inc.</key>
+	<array>
+		<string>VMwareLogo.png</string>
+		<string>3401 Hillview Avenue</string>
+		<string>Palo Alto</string>
+		<string>CA</string>
+		<string>94304</string>
+		<string>(877) 486-9273</string>
+		<string>info@vmware.com</string>
+		<string>http://www.vmware.com</string>
+		<string>https://careers.vmware.com/</string>
+		<string>http://www.vmware.com/company.html</string>
+		<string>https://en.wikipedia.org/wiki/VMware</string>
+	</array>
+	<key>Yahoo! Inc.</key>
+	<array>
+		<string>YahooLogo.png</string>
+		<string>701 First Avenue</string>
+		<string>Sunnyvale</string>
+		<string>CA</string>
+		<string>94089</string>
+		<string>(408) 349-3300</string>
+		<string>info@yahoo.com</string>
+		<string>http://www.yahoo.com</string>
+		<string>https://careers.yahoo.com/us/</string>
+		<string>https://about.yahoo.com/</string>
+		<string>https://en.wikipedia.org/wiki/Yahoo!</string>
+	</array>
+</dict>
+</plist>
